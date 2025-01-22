@@ -48,11 +48,11 @@ padding-left: 200px;
 .responsive {
     padding-left: 50px;
     float: left;
-    width: ;
+    padding-top: 100px;
+
   }
   .clearfix:after {
     content: "";
     display: table;
     clear: both;
   }
- 
