@@ -42,8 +42,11 @@ button{
 .img3{
 border-radius: 10px;
 }
+.container1{
+padding-left: 200px;
+}
 .responsive {
-    padding: 10px 10px;
+    padding-left: 50px;
     float: left;
     width: ;
   }
