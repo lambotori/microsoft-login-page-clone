@@ -25,7 +25,7 @@ button{
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50px;
+    width: 100px;
  }
   .div2{
     text-align: center;
@@ -39,5 +39,17 @@ button{
     font-size: 30px;
     
 }
-
+.img3{
+border-radius: 10px;
+}
+.responsive {
+    padding: 10px 10px;
+    float: left;
+    width: ;
+  }
+  .clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
  
