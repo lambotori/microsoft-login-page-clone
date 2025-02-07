@@ -129,3 +129,17 @@ body{
 width: 80px;
 height: 80px;
 }
+.container3 {
+        display: flex; /* This makes the divs inside appear side by side */
+        gap: 10px; /* Optional, adds space between the divs */
+        margin: 50px;
+}
+  
+      .box {
+        /*border: 1px solid #000;*/
+        padding: 20px;
+        
+        flex: 1; /* Ensures the divs take up equal space */
+        border-radius: 10px;
+        background-color: white;
+}
